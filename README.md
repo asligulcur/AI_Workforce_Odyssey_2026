@@ -55,6 +55,8 @@ Disruption risk = 0.50 × routine share + 0.30 × automation pressure (normalize
 
 *One run per scenario. Worker traits and transitions are random and no seed is fixed, so re-runs will give different numbers.*
 
+*Charts are from a separate run than the table above, so the numbers differ slightly.*
+
 **Unemployment over time** — Tech-Driven (left) vs Human-Centric (right)
 
 <p>
@@ -73,7 +75,9 @@ Disruption risk = 0.50 × routine share + 0.30 × automation pressure (normalize
 - **Recovery and stagnation clusters.** Peer effects produced pockets of recovery near early recoverers and stagnation where no one had recovered.
 - **Queue amplification under stress.** Training seats were deliberately a *secondary* constraint. They never bound under Human-Centric support (8 seats still free at the end) and bound only during peak disruption waves under Tech-Driven automation.
 
-**Finding:** the 9-vs-1 unemployment gap is *not* explained by seat scarcity. It comes from the interaction of disruption speed, scarring and peer support. Human-centric support doesn't just raise recovery overall — it equalizes outcomes across task types. Routine-cognitive workers recover first but lose that recovery under sustained pressure; non-routine workers recover later but more durably.
+**Finding:** the 9-vs-1 unemployment gap is not simply about training seats. Under Human-Centric support, 8 of the 20 seats were still empty at the end; under Tech-Driven automation, the 8 seats filled up only during peak disruption waves. The gap reflects the other settings combined: disruption arriving later (a higher threshold), more time before at-risk workers become unemployed, shorter training, less damage from long unemployment, and wider peer support. Because the scenarios change these together, the model cannot isolate which matters most.
+
+**Who recovered, and for how long:** workers in routine office jobs (data entry, bookkeeping) were hit first and retrained first, but as AI pressure kept rising their new jobs were disrupted again. By the end, none of them were still in recovered jobs in either scenario. Workers in less routine jobs were hit later. Under Human-Centric support, more of them recovered and most stayed recovered to the end; under Tech-Driven automation, few recovered at all.
 
 ## Run it
 
