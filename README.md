@@ -45,12 +45,15 @@ Disruption risk = 0.50 × routine share + 0.30 × automation pressure (normalize
 | Metric | Tech-Driven | Human-Centric |
 |---|---|---|
 | Employed | 6 | 8 |
+| At-risk | 3 | 3 |
 | In training | 7 | 12 |
 | **Unemployed** | **9** | **1** |
 | Recovered | 5 | 6 |
-| % augmented | 6.7% | 10% |
+| Augmented (share of all 30 workers) | 6.7% | 10% |
 | Average time unemployed | 10.6 ticks | 5.3 ticks |
 | Training seats still available | 1 | 8 |
+
+*One run per scenario. Worker traits and transitions are random and no seed is fixed, so re-runs will give different numbers.*
 
 **Unemployment over time** — Tech-Driven (left) vs Human-Centric (right)
 
