@@ -53,7 +53,7 @@ Disruption risk = 0.50 × routine share + 0.30 × automation pressure (normalize
 | Average time unemployed | 10.6 ticks | 5.3 ticks |
 | Training seats still available | 1 | 8 |
 
-*One run per scenario. Worker traits and transitions are random and no seed is fixed, so re-runs will give different numbers.*
+*One run per scenario. To reproduce these exact numbers, open the model fresh in NetLogo Web and run Tech-Driven first, then Human-Centric. Later runs give different numbers because worker traits and transitions are random.*
 
 *Charts are from a separate run than the table above, so the numbers differ slightly.*
 
@@ -81,7 +81,7 @@ Disruption risk = 0.50 × routine share + 0.30 × automation pressure (normalize
 
 ## Run it
 
-**In the browser (no install):** open [NetLogo Web](https://www.netlogoweb.org/launch), choose *Browse*, and load `AI_Workforce_Odyssey.nlogo`.
+**In the browser (no install):** [Open the model in NetLogo Web](https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/asligulcur/AI_Workforce_Odyssey_2026/main/AI_Workforce_Odyssey.nlogo). It runs in your browser with nothing to install.
 
 **Desktop:** install [NetLogo 6.4](https://ccl.northwestern.edu/netlogo/download.shtml) and open `AI_Workforce_Odyssey.nlogo`.
 
