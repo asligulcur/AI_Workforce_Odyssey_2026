@@ -14,7 +14,7 @@ When AI disrupts a labor market, do workers who get the same access to retrainin
 
 ## The model
 
-- **30 workers** in one labor market, simulated over **75 monthly ticks** of accelerating automation pressure.
+- **30 workers** in one labor market, simulated over **75 monthly ticks** of steadily rising automation pressure.
 - **4 task types** with different AI exposure: routine-cognitive (data entry, bookkeeping), non-routine cognitive (analysis, design), relationship-based (sales, partnerships) and non-routine manual (care work, trades).
 - **3 seniority levels** (junior workers face higher disruption risk) and **2 behavioral traits**: *adaptability* (who enters and benefits from training) and *resilience* (who disengages under pressure).
 - **5 states:** Employed → At-Risk → In-Training → Recovered (re-employed or AI-augmented), or Unemployed.
@@ -97,6 +97,6 @@ Three design choices draw on this paper: routine-task share as the main driver o
 
 ## Notes
 
-Generative AI (Claude, ChatGPT) assisted with design review and code generation; design decisions, testing, tuning and analysis are my own.
+Generative AI (Claude Code, ChatGPT) assisted with design review and code generation; design decisions, testing, tuning and analysis are my own.
 
 **Related projects from the same course:** [StockTrader](https://github.com/asligulcur/StockTrader_Signals_Strategies_2026) (competing LLM strategy agents) · [The AI Bidding War](https://github.com/asligulcur/The_AI_Bidding_War_April_2026) (governed multi-agent procurement negotiation).
