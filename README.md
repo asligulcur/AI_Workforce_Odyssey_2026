@@ -87,7 +87,13 @@ Then click **Tech-Driven** or **Human-Centric** to load a scenario's parameters,
 
 ## Limitations
 
-Workers are the only agents (firm strategy and policy are scenario parameters). The population is fixed at 30 with no entry or exit, spatial proximity stands in for professional networks, and parameters were tuned through test runs rather than calibrated to empirical data. Design concepts — accelerating pressure and junior-worker vulnerability — are informed by Stanford Digital Economy Lab research on AI and employment.
+Workers are the only agents (firm strategy and policy are scenario parameters). The population is fixed at 30 with no entry or exit, spatial proximity stands in for professional networks, and parameters were tuned through test runs rather than calibrated to empirical data. Design concepts — accelerating pressure and junior-worker vulnerability — are informed by Stanford Digital Economy Lab research (see Reference).
+
+## Reference
+
+Brynjolfsson, E., Chandar, B., & Chen, R. *[Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence](https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/).* Stanford Digital Economy Lab, working paper (2025; revised August 2026).
+
+The model's accelerating automation pressure and higher disruption risk for junior workers draw on the paper's finding that employment declines in AI-exposed occupations are concentrated among early-career workers and have grown over time.
 
 ## Notes
 
