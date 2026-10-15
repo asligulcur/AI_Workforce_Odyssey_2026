@@ -25,6 +25,9 @@ Disruption risk = 0.50 × routine share + 0.30 × automation pressure (normalize
 
 ## Two scenarios, same code
 
+- **Tech-Driven Automation:** AI is adopted aggressively and workers get little support: fewer and longer training programs, less chance of moving into AI-augmented work, and quicker layoffs.
+- **Human-Centric Support:** AI is adopted more selectively and workers get strong support: more and shorter training, better odds of AI-augmented work, and more time before layoffs.
+
 | Parameter | Tech-Driven Automation | Human-Centric Support |
 |---|---|---|
 | Base pressure / acceleration | 10 / 0.40 per tick | 5 / 0.20 per tick |
@@ -34,6 +37,8 @@ Disruption risk = 0.50 × routine share + 0.30 × automation pressure (normalize
 | At-risk / disgruntled timeout | 6 / 8 ticks | 10 / 12 ticks |
 | Peer influence radius | 2 patches | 4 patches |
 | Scarring rate | 0.5 / tick | 0.3 / tick |
+
+**Note on automation pressure:** the model scores each worker's pressure as a share of that scenario's own maximum. Both scenarios start at 25% of their maximum and rise in step to 100%, so in practice workers feel the same pressure in both. What makes disruption arrive later under Human-Centric support is its higher risk threshold: a worker's risk must reach 0.55 before they become at-risk, versus 0.50 under Tech-Driven automation.
 
 ## Results at tick 75
 
