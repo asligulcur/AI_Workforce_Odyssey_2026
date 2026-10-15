@@ -93,7 +93,7 @@ Workers are the only agents (firm strategy and policy are scenario parameters). 
 
 Brynjolfsson, E., Chandar, B., & Chen, R. *[Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence](https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/).* Stanford Digital Economy Lab, working paper (2025; revised August 2026).
 
-The model's accelerating automation pressure and higher disruption risk for junior workers draw on the paper's finding that employment declines in AI-exposed occupations are concentrated among early-career workers and have grown over time.
+Three design choices draw on this paper: routine-task share as the main driver of disruption risk (standing in for its AI-exposure measure), higher risk for junior workers, and automation pressure that rises over time. They reflect the paper's finding that employment in AI-exposed occupations has fallen behind for early-career workers (ages 22–25), with the gap widening over time. Consistent with this, routine-cognitive juniors made up the persistent tail of unemployed workers in the Tech-Driven scenario. Two differences: the paper finds the gap arises mainly from reduced hiring rather than layoffs, while this model has a fixed workforce with no new hires; and the paper's results are descriptive rather than causal.
 
 ## Notes
 
