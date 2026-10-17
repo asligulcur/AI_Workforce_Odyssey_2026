@@ -6,7 +6,7 @@
 
 **Result:** with identical access to training, 9 of 30 workers ended unemployed under Tech-Driven automation versus 1 under Human-Centric support (one run per scenario).
 
-![State transition diagram](figures/state_transition_diagram.png)
+**[▶ Run the model in your browser](https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/asligulcur/AI_Workforce_Odyssey_2026/main/AI_Workforce_Odyssey.nlogo)** (NetLogo Web, no install): click **Tech-Driven** or **Human-Centric**, then **Setup** and **Go**.
 
 ---
 
@@ -24,6 +24,10 @@ When AI disrupts a labor market, do workers who get the same access to retrainin
 - **Interaction mechanisms:** peer influence from nearby recovered or training workers, disgruntled contagion, scarring (the longer someone is unemployed, the less adaptable they become) and a cap on training seats.
 
 Disruption risk = 0.50 × routine share + 0.30 × automation pressure (normalized) + 0.20 × seniority penalty.
+
+![State transition diagram](figures/state_transition_diagram.png)
+
+*States, the seven transition rules, the emergent mechanisms and both scenarios' parameters.*
 
 ## Two scenarios, same code
 
