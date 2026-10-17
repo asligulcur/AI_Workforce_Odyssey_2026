@@ -2,7 +2,9 @@
 
 **An agent-based simulation of how workers adapt when AI automation accelerates — and why equal access to training does not produce equal recovery.**
 
-Built in NetLogo for *Agentic Technologies* (94815), Carnegie Mellon University, Spring 2026. Solo project by Asli Gulcur.
+*Built solo in NetLogo for CMU Heinz College's Agentic Technologies (Spring 2026), with AI coding assistance.*
+
+**Result:** with identical access to training, 9 of 30 workers ended unemployed under Tech-Driven automation versus 1 under Human-Centric support (one run per scenario).
 
 ![State transition diagram](figures/state_transition_diagram.png)
 
