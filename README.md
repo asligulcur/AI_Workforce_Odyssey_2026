@@ -70,7 +70,7 @@ Disruption risk = 0.50 × routine share + 0.30 × automation pressure (normalize
 <img src="figures/recovery_by_task_tech_driven.png" width="80%">
 <img src="figures/recovery_by_task_human_centric.png" width="80%">
 
-## What emerged (not programmed)
+## Emergent behavior (not programmed)
 
 - **Adaptation inequality.** Workers with identical training access diverged: some recovered quickly, others became trapped.
 - **Unemployment traps.** Scarring created a feedback loop — longer unemployment, lower adaptability, lower re-entry — leaving a persistent tail of unemployed routine-cognitive juniors under Tech-Driven automation.
